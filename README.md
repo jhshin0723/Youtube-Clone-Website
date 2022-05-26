@@ -1,3 +1,3 @@
 # Youtube-Clone-Website
 
-# <button>All HTML in youtube.html file, all styling and images in separate folders.</button>
+Created a youtube clone website to learn about the basics of HTML and CSS. Incorporated styling, interactive buttons, positioning, etc. 
